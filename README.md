@@ -1,6 +1,6 @@
 # cam-arg-relevance
 
-This repo contains code and data for the paper "How to Compare Things Properly? A Study of Argument Relevance in Comparative Question Answering" accepted to Main ACL 2025. Here you could find the instructions to reproduce all our results.
+This repo contains code and data for the paper _"How to Compare Things Properly? A Study of Argument Relevance in Comparative Question Answering"_ accepted to _Main ACL 2025_. Here you could find the instructions to reproduce all our results.
 
 The repo is structured as follows:
 
